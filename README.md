@@ -1,5 +1,9 @@
 # vue-launchx-2
 
+CDCI.
+Usando una aplicación simle de Vue.JS
+
+
 ## Project setup
 ```
 npm install
